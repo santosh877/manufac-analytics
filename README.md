@@ -1,3 +1,7 @@
+Clone the project , go to the main directory of the project and run
+
+### `yarn install`
+
 In the project directory, you can run:
 
 ### `yarn start`
@@ -29,13 +33,13 @@ Flavanoids Mode  | 3        | 2.2      | 1.48     |
 
 ### `Gamma Table`
 
-Measures | #class 1 | #Class 2 | #class 3 |
---- | --- | --- | --- |--- |--- |--- |--- |
-Gamma Mean | 0.657 | 0.287 | 1.137 | 
---- | --- | --- | --- |--- |--- |--- |--- |
-Gamma Median | 0.617 | 0.256 | 1.11 | 
---- | --- | --- | --- |--- |--- |--- |--- |
-Gamma Mode | 0.609 | 0.225 | 0 | 
+Measures         | #class 1 | #Class 2 | #class 3 |
+---------------  | -------- | -------- | -------- |
+Gamma Mean       |    0.657 | 0.287    | 1.137    | 
+--- | --- | ---  | -------- |--------- |--------- |
+Gamma Median     | 0.617    | 0.256    | 1.11     | 
+--- | --- | ---  | -------- |--------- |--------- |
+Gamma Mode       | 0.609    | 0.225    | 0        | 
 
 
 
